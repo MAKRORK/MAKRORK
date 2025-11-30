@@ -1,5 +1,5 @@
 <div align="center">
-<img src = "assets/img.jpg" align="right" width="25%">
+<img src = "assets/img.jpg" align="left" width="25%">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=24&pause=1000&color=F71D68&center=true&multiline=true&repeat=false&width=250&height=75&lines=Welcome+to+my+GitHub!;I'm+MAKRORK" alt="Typing SVG" width="35%"/></a>
 
